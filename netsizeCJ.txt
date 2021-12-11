@@ -1,0 +1,6 @@
+$ ./netsizeCJ.sh n1.txt
+Filename: Saavedra2013/n1.txt
+Number of rows:
+97
+Number of columns:
+81
