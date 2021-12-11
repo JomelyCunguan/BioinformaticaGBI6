@@ -21,7 +21,7 @@ En el caso del literal A,
 ![WhatsApp Image 2021-12-10 at 20 10 32](https://user-images.githubusercontent.com/94874288/145659739-11d0dd01-be06-4aa5-8509-5472a0ad5125.jpeg)
 ![WhatsApp Image 2021-12-10 at 20 10 15](https://user-images.githubusercontent.com/94874288/145659750-ac184b2a-3dd9-43e3-9be8-b46ed9c17bb0.jpeg)
 
-## Después, desde Atom se subió la tarea al repositorio de Git Hub como se puedo apreciar en las imágenes 
+## Después, desde Atom se subió la tarea al repositorio de Git Hub como se puedo apreciar en las imágenes. En este caso para enviar la tarea desde Atom cloné mi repositorio de GitHub en atom y subí mis archivos luego comente y subí en la opción Push. Automáticamente se sube al Git hub y se puede apreciar en el repositorio
 ![WhatsApp Image 2021-12-10 at 20 10 53](https://user-images.githubusercontent.com/94874288/145659799-22a9094d-8bf7-4dfd-9af1-44bbd05f5199.jpeg)
 ![WhatsApp Image 2021-12-10 at 20 00 54](https://user-images.githubusercontent.com/94874288/145659806-4300d5cb-89fc-4106-8f48-55174c843123.jpeg)
 
